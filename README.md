@@ -35,8 +35,3 @@
 
 </p>
 <br>
-<h3 align="center">💫 Github Status</h3>
-[![Github Status](https://github-readme-stats.vercel.app/api?username=jwlee0411&show_icons=true&theme=radical)](https://github.com/jwlee0411)
-<br>
-<h3 align="center">🔝 Top Langs</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlee0411&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/jwlee0411)
