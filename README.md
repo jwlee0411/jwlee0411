@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Jongwoo Lee</h1>
+<h3 align="center">A Growing Developer from South Korea</h3>
 
+<br><br>
 
 <h3 align="center">📱Contact</h3>
 <p align="center">
@@ -9,7 +12,7 @@
   <a href="www.linkedin.com/in/leejongwoo777"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/leejongwoo777"/></a> &nbsp
 </p>
 
-
+<br>
 
 <h3 align="center">🚀 Skills</h3>
 <p align="center">
@@ -31,3 +34,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 
 </p>
+<br>
+<h3 align="center">💫 Github Status</h3>
+[![Github Status](https://github-readme-stats.vercel.app/api?username=jwlee0411&show_icons=true&theme=radical)](https://github.com/jwlee0411)
+<br>
+<h3 align="center">🔝 Top Langs</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlee0411&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/jwlee0411)
