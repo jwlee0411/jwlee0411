@@ -6,7 +6,7 @@
 <h3 align="center">📱Contact</h3>
 <p align="center">
   <a href="mailto:leejongwoo777@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leejongwoo777@gmail.com"/></a> &nbsp
-  <a href="https://jwlee0411.github.io"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://jwlee0411.github.io"/></a> &nbsp
+  <a href="http://jwlee0411.kro.kr.io"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white&link=http://jwlee0411.kro.kr"/></a> &nbsp
   <a href="https://instagram.com/jwlee0411"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jwlee0411"/></a> &nbsp
   <a href="https://github.com/jwlee0411"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/jwlee0411"/></a> &nbsp
   <a href="https://www.linkedin.com/in/leejongwoo777"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leejongwoo777"/></a> &nbsp
