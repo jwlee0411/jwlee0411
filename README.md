@@ -10,6 +10,17 @@
     
 <br>
 
+### 🎓 Education
+
+- **Soongsil University**
+  - School of Electronic Engineering
+  - *2022.03 - Present*
+
+- **Sunrin Internet High School**
+  - Department of Software
+  - *2019.03 - 2022.02*
+<br>
+
 ### 🛠 Skills
 
 **Languages** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
