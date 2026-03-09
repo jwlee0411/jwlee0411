@@ -5,7 +5,7 @@
 
 ### 💼 Experience
 
-- **Web Frontend & Backend Developer** @ [(주)해주세요컴퍼니](https://pleasehelp.co.kr)
+- **Web Frontend & Backend Developer**
   - *2025.12 - Present*
     
 <br>
