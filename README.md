@@ -6,7 +6,7 @@
 ### 💼 Experience
 
 - **Web Frontend & Backend Developer**
-  - *2025.12 - Present*
+  - *2025.12 - 2026.03*
     
 <br>
 
