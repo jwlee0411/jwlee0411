@@ -4,6 +4,10 @@
 <br>
 
 ### 💼 Experience
+- **IRIS Lab Co., Ltd.**
+  - CEO (DevOps Engineer)
+  -  [틈틈](https://teaser.tumtum.kr)
+  - *2026.05 - *
 
 - **Web Frontend & Backend Developer**
   - Developed and maintained full-stack web applications, focusing on scalable architecture and user experience.
