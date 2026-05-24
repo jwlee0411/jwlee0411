@@ -1,15 +1,18 @@
-# Hi 👋, I'm Jongwoo Lee
+# Hi, I'm Jongwoo Lee 👋
 ### "Designing value beyond profit, virtuous cycles beyond competition."
 
 <br>
 
 ### 💼 Experience
 - **IRIS Lab Co., Ltd.**
-  - CEO (DevOps Engineer - React(Expo) / Springboot / MySQL / OCI)
-  - *2026.05 -*
+  - CEO
+  - DevOps Engineer - React(Expo) / Springboot / MySQL / OCI
+  - *2026.05 - Present*
+    
+<br>
 
-- **Web Frontend & Backend Developer**
-  - DevOps Engineer - React / Springboot / MySQL / AWS
+- **Developer**
+  - React / Springboot / MySQL / AWS
   - *2025.12 - 2026.03*
 
 <br>
