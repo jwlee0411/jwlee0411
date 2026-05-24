@@ -5,11 +5,11 @@
 
 ### 💼 Experience
 - **IRIS Lab Co., Ltd.**
-  - CEO (DevOps Engineer)
+  - CEO (DevOps Engineer - React(Expo) / Springboot / MySQL / OCI)
   - *2026.05 -*
 
 - **Web Frontend & Backend Developer**
-  - Developed and maintained full-stack web applications, focusing on scalable architecture and user experience.
+  - DevOps Engineer - React / Springboot / MySQL / AWS
   - *2025.12 - 2026.03*
 
 <br>
