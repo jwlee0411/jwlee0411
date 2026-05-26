@@ -7,7 +7,7 @@
 - **IRIS Lab Co., Ltd.**
   - CEO
   - DevOps Engineer - React(Expo) / Springboot / MySQL / OCI
-  - *2026.05 - Present*
+  - *2026.04 - Present*
     
 <br>
 
