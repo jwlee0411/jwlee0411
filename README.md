@@ -5,7 +5,7 @@
 ### 💼 Experience
 - **IRIS Lab Co., Ltd. (아이리스랩)**
   - CEO
-  - DevOps Engineer - React(Expo) / Springboot / MySQL / OCI
+  - DevOps Engineer
   - *2026.04 - Present*
     
 <br>
