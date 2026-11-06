@@ -3,7 +3,7 @@
 <br>
 
 ### 💼 Experience
-- **IRIS Lab Co., Ltd. (아이리스랩)**
+- **IRIS Lab Co.,Ltd. (아이리스랩)**
   - CEO
   - DevOps Engineer
   - *2026.04 - Present*
